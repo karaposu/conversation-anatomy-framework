@@ -1,5 +1,7 @@
 # Conversation Anatomy Framework (CAF)
 
+Making conversation analyzable, measurable, and understandable
+
 
 ## The Problem We're Solving
 

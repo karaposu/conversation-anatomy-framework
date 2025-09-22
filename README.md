@@ -253,5 +253,21 @@ But still the current framework is built upon following assumptions:
 
 3. **Emergent Properties**: The four key qualities of good conversation (Proactive, Attentive, Navigational, Adaptive) emerge naturally from specific combinations of our nine dimensions, not from additional hidden factors.
 
+---
+
+## Learn More
+
+CAF is an evolving framework. We welcome contributions, critiques, and applications. Visit the [repository](https://github.com/karaposu/conversation-anatomy-framework) to:
+- Explore more examples
+- Learn about other engineerable conversation frameworks 
+- Contribute to framework development
+
+For deeper exploration:
+
+- **[PANA Conversation Synthesis System](PANA.md)** - How to build LLM conversations which leverages CAF
+
+
+
+
 
 

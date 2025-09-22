@@ -264,7 +264,7 @@ CAF is an evolving framework. We welcome contributions, critiques, and applicati
 
 For deeper exploration:
 
-- **[PANA Conversation Synthesis System](PANA.md)** - How to build LLM conversations which leverages CAF
+- **[PANA Conversation Synthesis System](https://github.com/karaposu/conversation-anatomy-framework/blob/main/PANA.md)** - How to build LLM conversations which leverages CAF
 
 
 

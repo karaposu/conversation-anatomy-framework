@@ -173,21 +173,13 @@ Let's analyze a brief workplace exchange using all nine dimensions:
 ### Dimensional Analysis:
 
 1. **Dialogic Functions**: Manager begins with Challenging (questioning behavior), Employee responds with Explaining and Sharing Experience, Manager shifts to Querying, Employee concludes with Affirming.
-
 2. **Conversational Intent**: Manager's intent evolves from Correcting to Understanding to Problem-Solving. Employee's intent shifts from Defending to Explaining to Committing.
-
 3. **Contextual Dimensions**: Formal workplace setting, hierarchical relationship, private one-on-one, problem-solving purpose, synchronous/face-to-face.
-
 4. **Energy Dynamics**: Starts with mild escalation (tension), de-escalates as understanding emerges.
-
 5. **Information Density**: Surface-level problem statement deepens to reveal systemic issues.
-
 6. **Power Distribution**: Initially asymmetric (manager controlling), becomes more symmetric as employee provides crucial information.
-
 7. **Temporal Structure**: Linear progression from problem identification to resolution.
-
 8. **Engagement Level**: Both highly engaged (workplace necessity).
-
 9. **Interest Level**: Manager deeply interested (performance concern), Employee moderately interested (defensive but cooperative).
 
 This analysis reveals the conversation succeeded because it transitioned from challenging to understanding, power became more balanced, and energy de-escalated—despite starting with criticism.
@@ -248,9 +240,7 @@ As we gather more data and refine the framework, patterns will emerge that deman
 But still the current framework is built upon following assumptions:
 
 1. **Manifold Hypothesis**: All human conversations exist on a low-dimensional manifold (20-50 dimensions) embedded in the high-dimensional space of possible word sequences. Our nine dimensions capture the primary coordinates of this manifold.
-
 2. **Universal Conversation Geometry**: There exists a geometric structure in conversation space that allows us to measure distances between conversation states, define optimal paths (geodesics), and understand transformations. This means we can quantify how "far apart" two conversations are and find the shortest path to transform one into another.
-
 3. **Emergent Properties**: The four key qualities of good conversation (Proactive, Attentive, Navigational, Adaptive) emerge naturally from specific combinations of our nine dimensions, not from additional hidden factors.
 
 ---
